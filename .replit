@@ -1,5 +1,2 @@
 run = "node index"
 language = "node"
-
-[nix]
-channel = "stable-22_05"
